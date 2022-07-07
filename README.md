@@ -57,7 +57,7 @@ Open-source intelligence refers to gathering data from freely accessible and ava
 - [Consulta Ciudadano - RUNT PERSONA](https://www.runt.com.co/consultaCiudadana/#/consultaPersona) - consulta de propietario de vehiculo por persona COLOMBIA.
 - [Pérdida de documentos - Banco de documentos](http://bancodedocumentos.com/) - consulta documentos perdidos COLOMBIA.
 
-### OSINT - Maps  - Time - geology
+### OSINT - Maps - Time - geology
 
  - [Colombia | EJAtlas mapa geologia](https://ejatlas.org/country/colombia) - Environmental Justice Atlas COLOMBIA and OTHERS.
  - [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=-8.92849,-185.625&extent=67.47492,-4.21875&listOnlyShown=true&timeZone=utc) - EarthQuake locator realtime
@@ -231,5 +231,5 @@ Open-source intelligence refers to gathering data from freely accessible and ava
 
 ### Version Control
 
-[Git Version - github.com/TheCyberpunker/OSINT](https://github.com/TheCyberpunker/OSINT)
-[https://thecyberpunker.com/blog/osint-resources-for-pentesting/](https://thecyberpunker.com/blog/osint-resources-for-pentesting/)
+- [Git Version - github.com/TheCyberpunker/OSINT](https://github.com/TheCyberpunker/OSINT)
+- [https://thecyberpunker.com/blog/osint-resources-for-pentesting/](https://thecyberpunker.com/blog/osint-resources-for-pentesting/)
